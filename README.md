@@ -2,7 +2,7 @@
 
 Changed!
 
-An open source gardener. This is a technology for powering GitHub bots. It's really rough around the edges but it currently powers [@jekyllbot](https://github.com/jekyllbot).
+An open source gardener. This is technology for powering GitHub bots. It's really rough around the edges but it currently powers [@jekyllbot](https://github.com/jekyllbot).
 
 [![Build Status](https://travis-ci.org/parkr/auto-reply.svg?branch=master)](https://travis-ci.org/parkr/auto-reply)
 
